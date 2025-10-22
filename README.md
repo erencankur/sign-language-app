@@ -9,7 +9,8 @@ Bu proje, kullanıcıların işaret dilini öğrenmelerine yardımcı olan ve ki
 - **Etkileşimli eğitim:** Oyunlaştırılmış görevler ve geri bildirimler.
 
 ## Teknolojiler
-- React Native
+- Next.js (Web)
+- React Native (Mobile)
 - Python
 - Mediapipe
 - OpenCV
