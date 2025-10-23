@@ -16,3 +16,4 @@ Bu proje, kullanıcıların işaret dilini öğrenmelerine yardımcı olan ve ki
 - MediaPipe
 - React
 - Node.js
+- bığ
